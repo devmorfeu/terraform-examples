@@ -22,7 +22,7 @@
 
 :small_blue_diamond: [azure-storage-account](#azure-storage-account)
 
-:small_blue_diamond: [Linhas de comandos](#funcionalidades)
+:small_blue_diamond: [cli](#cli)
 
 
 ... 
@@ -67,6 +67,20 @@
 :heavy_check_mark: Outputs
 
 ... 
+
+## CLI
+
+>:keyboard: terraform fmt *(Auto indentação)*
+
+>:keyboard: terraform validate *(Validação da sintaxe)*
+
+>:keyboard: terraform init *(Prepara seu diretório de trabalho para outros comandos)*
+
+>:keyboard: terraform plan *(Mostra as alterações exigidas pelas configurações atuais)*
+
+>:keyboard: terraform apply *(Cria ou atualiza a infra)*
+
+>:keyboard: terraform apply *(Destroi toda infra já criada)*
 
 ## Referencias :books:
 
