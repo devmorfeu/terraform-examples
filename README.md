@@ -68,6 +68,20 @@
 
 ... 
 
+## azure-vnet
+
+:heavy_check_mark: Resource Group
+
+:heavy_check_mark: Vnet
+
+:heavy_check_mark: Subnet 
+
+:heavy_check_mark: Network Security Group
+
+:heavy_check_mark: Subnet Network Security Group Association
+
+... 
+
 ## CLI
 
 >:keyboard: terraform fmt *(Auto indentação)*
@@ -80,8 +94,9 @@
 
 >:keyboard: terraform apply *(Cria ou atualiza a infra)*
 
->:keyboard: terraform apply *(Destroi toda infra já criada)*
+>:keyboard: terraform destroy *(Destroi toda infra já criada)*
 
+...
 ## Referencias :books:
 
 - [Terraform](https://www.terraform.io/)
