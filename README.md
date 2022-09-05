@@ -22,6 +22,8 @@
 
 :small_blue_diamond: [azure-storage-account](#azure-storage-account)
 
+:small_blue_diamond: [azure-vnet](#azure-vnet)
+
 :small_blue_diamond: [cli](#cli)
 
 
