@@ -1,7 +1,8 @@
 <h1>Terraform Exemplos</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=terraform&message=IaaS&color=blueviolet&style=for-the-badge&logo=Terraform"/>
+  <img src="https://img.shields.io/static/v1?label=terraform&message=IaaS&color=blueviolet&style=for-the-badge&logo=Te
+  aform"/>
   <img src="https://img.shields.io/static/v1?label=HCL&message=100%&color=lightgrey&style=for-the-badge&logo=HCL"/>  
   <img src="https://img.shields.io/static/v1?label=Provider&message=AWS&color=orange&style=for-the-badge&logo=Amazon"/>  
   <img src="https://img.shields.io/static/v1?label=Provider&message=AZURE&color=blue&style=for-the-badge&logo=Microsoft"/>
@@ -19,6 +20,8 @@
 :small_blue_diamond: [aws-azure-bucket](#aws-azure-bucket)
 
 :small_blue_diamond: [aws-vpc](#aws-vpc)
+
+:small_blue_diamond: [aws-vm-vpc](#aws-vm-vpc)
 
 :small_blue_diamond: [azure-storage-account](#azure-storage-account)
 
@@ -81,6 +84,18 @@
 :heavy_check_mark: Network Security Group
 
 :heavy_check_mark: Subnet Network Security Group Association
+
+... 
+
+## aws-vm-vpc
+
+:heavy_check_mark: Criação de VM
+
+:heavy_check_mark: VPC
+
+:heavy_check_mark: Criação de SSH 
+
+:heavy_check_mark: Remote State
 
 ... 
 
