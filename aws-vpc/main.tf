@@ -6,10 +6,12 @@ terraform {
       source  = "hashicorp/aws"
       version = "4.12.1"
     }
-    azurerm = {
-      source  = "hashicorp/azurerm"
-      version = "2.94.0"
-    }
+  }
+
+  backend "s3" {
+    bucket = "ganogsi-remote-state"
+    key    = "aws-vpc/terraform.tfstate"
+    region = "eu-central-1"
   }
 }
 
@@ -22,9 +24,4 @@ provider "aws" {
       managed-by = "terraform"
     }
   }
-
-}
-
-provider "azurerm" {
-  features {}
 }
