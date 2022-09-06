@@ -27,6 +27,8 @@
 
 :small_blue_diamond: [azure-vnet](#azure-vnet)
 
+:small_blue_diamond: [azure-vnet](#azure-vnet)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -96,6 +98,19 @@
 :heavy_check_mark: Criação de SSH 
 
 :heavy_check_mark: Remote State
+
+... 
+## aws-vm-vpc
+
+:heavy_check_mark: Resource Group
+
+:heavy_check_mark: Public IP
+
+:heavy_check_mark: Network Interface 
+
+:heavy_check_mark: Network Interface Security Group Association
+
+:heavy_check_mark: Virtual Machine
 
 ... 
 
