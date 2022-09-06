@@ -27,7 +27,7 @@
 
 :small_blue_diamond: [azure-vnet](#azure-vnet)
 
-:small_blue_diamond: [azure-vnet](#azure-vnet)
+:small_blue_diamond: [azure-vm-vnet-remote-state](#aazure-vm-vnet-remote-state)
 
 :small_blue_diamond: [cli](#cli)
 
@@ -100,7 +100,7 @@
 :heavy_check_mark: Remote State
 
 ... 
-## aws-vm-vpc
+## azure-vm-vnet-remote-state
 
 :heavy_check_mark: Resource Group
 
