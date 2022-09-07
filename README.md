@@ -28,7 +28,7 @@
 
 :small_blue_diamond: [azure-vm-vnet-remote-state](#azure-vm-vnet-remote-state)
 
-:small_blue_diamond: [aws-vm-com-provisioners](#aws-vm-com-provisioners])
+:small_blue_diamond: [aws-vm-com-provisioners](#aws-vm-com-provisioners)
 
 :small_blue_diamond: [cli](#cli)
 
