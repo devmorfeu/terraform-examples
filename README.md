@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=terraform&message=IaaS&color=blueviolet&style=for-the-badge&logo=Te
   aform"/>
   <img src="https://img.shields.io/static/v1?label=HCL&message=100%&color=lightgrey&style=for-the-badge&logo=HCL"/>  
-  <img src="https://img.shields.io/static/v1?label=Provider&message=AWS&color=orange&style=for-the-badge&logo=Amazon"/>  
+  <img src="https://img.shields.io/static/v1?label=Provider&message=AWS&color=orange&style=for-the-badge&logo=Amazon"/>
   <img src="https://img.shields.io/static/v1?label=Provider&message=AZURE&color=blue&style=for-the-badge&logo=Microsoft"/>
 </p>
 
@@ -27,7 +27,9 @@
 
 :small_blue_diamond: [azure-vnet](#azure-vnet)
 
-:small_blue_diamond: [azure-vm-vnet-remote-state](#aazure-vm-vnet-remote-state)
+:small_blue_diamond: [azure-vm-vnet-remote-state](#azure-vm-vnet-remote-state)
+
+:small_blue_diamond: [aws-vm-com-provisioners](#aws-vm-com-provisioners])
 
 :small_blue_diamond: [cli](#cli)
 
@@ -111,6 +113,14 @@
 :heavy_check_mark: Network Interface Security Group Association
 
 :heavy_check_mark: Virtual Machine
+
+... 
+
+## aws-vm-com-provisioners
+
+:heavy_check_mark: Provisioners Local
+
+:heavy_check_mark: Provisioners Remote
 
 ... 
 
