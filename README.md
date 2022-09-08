@@ -38,6 +38,8 @@
 
 :small_blue_diamond: [azure-depends-on-module-remote](#azure-depends-on-module-remote)
 
+:small_blue_diamond: [aws-count-vpc](#aws-count-vpc)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -158,6 +160,12 @@
 ## azure-depends-on-module-remote
 
 :heavy_check_mark: Depends_on
+
+... 
+
+## aws-count-vpc
+
+:heavy_check_mark: Count
 
 ... 
 
