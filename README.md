@@ -32,6 +32,8 @@
 
 :small_blue_diamond: [azure-vm-com-provisioners](#azure-vm-com-provisioners)
 
+:small_blue_diamond: [aws-module-local](#aws-module-local)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -130,6 +132,14 @@
 :heavy_check_mark: Provisioners Local
 
 :heavy_check_mark: Provisioners Remote
+
+... 
+
+## aws-module-local
+
+:heavy_check_mark: Local Module
+
+:heavy_check_mark: VPC
 
 ... 
 
