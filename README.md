@@ -36,6 +36,8 @@
 
 :small_blue_diamond: [azure-module-remote](#azure-module-remote)
 
+:small_blue_diamond: [azure-depends-on-module-remote](#azure-depends-on-module-remote)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -145,11 +147,17 @@
 
 ... 
 
-## aws-module-local
+## azure-module-remote
 
-:heavy_check_mark: Local Remote
+:heavy_check_mark: Remote module
 
 :heavy_check_mark: VM
+
+... 
+
+## azure-depends-on-module-remote
+
+:heavy_check_mark: Depends_on
 
 ... 
 
