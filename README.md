@@ -40,6 +40,10 @@
 
 :small_blue_diamond: [aws-count-vpc](#aws-count-vpc)
 
+:small_blue_diamond: [azure-for-each-resource-group](#azure-for-each-resource-group)
+
+:small_blue_diamond: [aws-provider-vpc](#aws-provider-vpc)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -166,6 +170,17 @@
 ## aws-count-vpc
 
 :heavy_check_mark: Count
+
+... 
+
+## azure-for-each-resource-group
+
+:heavy_check_mark: For each
+
+... 
+## aws-provider-vpc
+
+:heavy_check_mark: Provider
 
 ... 
 
