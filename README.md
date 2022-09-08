@@ -34,6 +34,8 @@
 
 :small_blue_diamond: [aws-module-local](#aws-module-local)
 
+:small_blue_diamond: [azure-module-remote](#azure-module-remote)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -140,6 +142,14 @@
 :heavy_check_mark: Local Module
 
 :heavy_check_mark: VPC
+
+... 
+
+## aws-module-local
+
+:heavy_check_mark: Local Remote
+
+:heavy_check_mark: VM
 
 ... 
 
