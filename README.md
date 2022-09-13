@@ -50,6 +50,8 @@
 
 :small_blue_diamond: [aws-for-expressions](#aws-for-expressions)
 
+:small_blue_diamond: [aws-splat-expressions](#aws-splat-expressions)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -205,6 +207,12 @@
 ## aws-for-expressions
 
 :heavy_check_mark: For expressions
+
+... 
+
+## aws-splat-expressions
+
+:heavy_check_mark: Splat expressions
 
 ... 
 
