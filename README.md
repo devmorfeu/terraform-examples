@@ -54,11 +54,11 @@
 
 :small_blue_diamond: [aws-dynamic-block](#aws-dynamic-block)
 
+:small_blue_diamond: [aws-workspaces](#aws-workspaces)
+
 :small_blue_diamond: [cli](#cli)
 
-
 ... 
-
 
 ## aws-azure-bucket
 
@@ -224,9 +224,15 @@
 
 ... 
 
+## aws-workspaces
+
+:heavy_check_mark: Workspaces
+
+... 
+
 ## CLI
 
->:keyboard: terraform fmt *(Auto indentação)*
+>:keyboard: terraform fmt *(Auto indentação)* (-recursive #dica do gv)
 
 >:keyboard: terraform validate *(Validação da sintaxe)*
 
