@@ -48,6 +48,8 @@
 
 :small_blue_diamond: [aws-conditional-expressions](#aws-conditional-expressions)
 
+:small_blue_diamond: [aws-for-expressions](#aws-for-expressions)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -197,6 +199,12 @@
 ## aws-conditional-expressions
 
 :heavy_check_mark: Conditional expressions
+
+... 
+
+## aws-for-expressions
+
+:heavy_check_mark: For expressions
 
 ... 
 
