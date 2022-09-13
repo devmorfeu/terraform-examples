@@ -52,6 +52,8 @@
 
 :small_blue_diamond: [aws-splat-expressions](#aws-splat-expressions)
 
+:small_blue_diamond: [aws-dynamic-block](#aws-dynamic-block)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -213,6 +215,12 @@
 ## aws-splat-expressions
 
 :heavy_check_mark: Splat expressions
+
+... 
+
+## aws-dynamic-block
+
+:heavy_check_mark: Dynamic block
 
 ... 
 

@@ -10,7 +10,7 @@ terraform {
 
   backend "s3" {
     bucket = "ganogsi-remote-state"
-    key    = "aws-vpc-provider/terraform.tfstate"
+    key    = "aws-dynamic-block/terraform.tfstate"
     region = "eu-central-1"
   }
 }
@@ -22,20 +22,6 @@ provider "aws" {
     tags = {
       owner      = "ganogsi"
       managed-by = "terraform"
-      region     = "eu-central-1"
-    }
-  }
-}
-
-provider "aws" {
-  alias  = "eua"
-  region = "us-weast-1"
-
-  default_tags {
-    tags = {
-      owner      = "ganogsi"
-      managed-by = "terraform"
-      region     = "us-weast-1"
     }
   }
 }
