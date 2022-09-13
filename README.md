@@ -56,6 +56,8 @@
 
 :small_blue_diamond: [aws-workspaces](#aws-workspaces)
 
+:small_blue_diamond: [aws-data-source](#aws-data-source)
+
 :small_blue_diamond: [cli](#cli)
 
 ... 
@@ -227,6 +229,11 @@
 ## aws-workspaces
 
 :heavy_check_mark: Workspaces
+
+... 
+## aws-data-source
+
+:heavy_check_mark: Data Source
 
 ... 
 
