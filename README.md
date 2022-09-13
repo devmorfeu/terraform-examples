@@ -44,6 +44,10 @@
 
 :small_blue_diamond: [aws-provider-vpc](#aws-provider-vpc)
 
+:small_blue_diamond: [aws-lifecycle-bucket](#aws-lifecycle-bucket)
+
+:small_blue_diamond: [aws-conditional-expressions](#aws-conditional-expressions)
+
 :small_blue_diamond: [cli](#cli)
 
 
@@ -181,6 +185,18 @@
 ## aws-provider-vpc
 
 :heavy_check_mark: Provider
+
+... 
+
+## aws-lifecycle-bucket
+
+:heavy_check_mark: Lifecycle
+
+... 
+
+## aws-conditional-expressions
+
+:heavy_check_mark: Conditional expressions
 
 ... 
 
