@@ -58,6 +58,10 @@
 
 :small_blue_diamond: [aws-data-source](#aws-data-source)
 
+:small_blue_diamond: [azure-null-resource](#azure-null-resource)
+
+:small_blue_diamond: [azure-time-sleep](#azure-time-sleep)
+
 :small_blue_diamond: [cli](#cli)
 
 ... 
@@ -204,25 +208,25 @@
 
 ## aws-conditional-expressions
 
-:heavy_check_mark: Conditional expressions
+:heavy_check_mark: Conditional Expressions
 
 ... 
 
 ## aws-for-expressions
 
-:heavy_check_mark: For expressions
+:heavy_check_mark: For Expressions
 
 ... 
 
 ## aws-splat-expressions
 
-:heavy_check_mark: Splat expressions
+:heavy_check_mark: Splat Expressions
 
 ... 
 
 ## aws-dynamic-block
 
-:heavy_check_mark: Dynamic block
+:heavy_check_mark: Dynamic Block
 
 ... 
 
@@ -236,7 +240,16 @@
 :heavy_check_mark: Data Source
 
 ... 
+## azure-null-resource
 
+:heavy_check_mark: Null Resource
+
+... 
+## azure-time-sleep
+
+:heavy_check_mark: Time Sleep
+
+... 
 ## CLI
 
 >:keyboard: terraform fmt *(Auto indentação)* (-recursive #dica do gv)
