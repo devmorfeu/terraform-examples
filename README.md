@@ -12,7 +12,7 @@
   Projeto destinado a fins de estudos e praticas com terraform, aws e azure. 
 </p>
 
-> Status do Projeto: :warning: (em desenvolvimento)
+> Status do Projeto: :heavy_check_mark: (finalizado)
 
 ### Tópicos 
 
